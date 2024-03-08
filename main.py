@@ -10,6 +10,8 @@ from PySide2.QtUiTools import QUiLoader
 # Gold digger scripts
 from GD_Tools.rigging.CurvedRigAnimChain import CurveRigAnimChainTool
 from GD_Tools.utils.arm_utils import utils
+
+from GD_Tools.GD_Tools.rigging
 # initialization of tools
 # curve_chain_tool = CurveRigAnimChainTool()
 
